@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CaSansaar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gallery__image_view">Gallery_ImageView</string>
+    <string name="about_amritsar"><![CDATA[Jalandhar Branch of Northern India Regional Council (NIRC) of The Institute of Chartered Accountants of India (ICAI) is a branch of The Institute of Chartered Accountants of India (ICAI), which is a statutory body established under the Chartered Accountants Act, 1949 (Act No. XXXVIII of 1949) for the regulation of the profession of Chartered Accountants in India. During its 61 years of existence, ICAI has achieved recognition as a premier accounting body not only in the country but also globally, for its contribution in the fields of education, professional development, maintenance of high accounting, auditing and ethical standards. The function of Jalandhar Branch of ICAI include holding Conferences, Seminars, Workshops, Refresher Courses, Study Circle Meetings, Training Programmes, Residential Refresher Courses, Awareness Program for public, GMCS Classes, ISA Classes, ITT Classes, Orientation Programme, Coaching Classes, Cultural Activity, Sports Activities, Contest, Debate, Quiz & other programs for professional interest with a view to help the members as well as students keep themselves abreast of the development in the fast changing scenario. Jalandhar Branch of NIRC Of ICAI has more than 700 members and more than 2000 students. It is one of the most active branch of NIRC Of ICAI.]]></string>
+</resources>

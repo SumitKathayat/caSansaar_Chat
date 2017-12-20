@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1024399907968",
+    "firebase_url": "https://casansaar-8beb7.firebaseio.com",
+    "project_id": "casansaar-8beb7",
+    "storage_bucket": "casansaar-8beb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024399907968:android:99ff6291489c5402",
+        "android_client_info": {
+          "package_name": "com.example.admin.casansaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024399907968-vdbal16t4h7uukgb0go15003mb3g5rta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.casansaar",
+            "certificate_hash": "d4a19570a3c0bf799e69db7cb7e4ab366ecc6939"
+          }
+        },
+        {
+          "client_id": "1024399907968-paueojk717e2u5t971744iovtr3a29gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ngjbV-iQEnwpb0TcrVhFP_sebXnDZ7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024399907968-paueojk717e2u5t971744iovtr3a29gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

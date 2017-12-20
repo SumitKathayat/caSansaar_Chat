@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <HorizontalScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:scrollbarFadeDuration="0"
+        android:scrollbarSize="5dip" >
+    <tabs>
+        <tab
+            id="@+id/tab_about"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="@#ffffff"
+            title="About Us" />
+        <tab
+            id="@+id/tab_motto"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="Our Motto" />
+        <tab
+            id="@+id/tab_committee"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="Commiittee"
+            />
+        <tab
+            id="@+id/tab_wicasa"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="Team WICASA"/>
+        <tab
+            id="@+id/tab_directory"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="Directory"/>
+        <tab
+            id="@+id/tab_cpe"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="CPE"/>
+<tab
+            id="@+id/tab_gallery"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="Gallery"/>
+        <tab
+            id="@+id/tab_events"
+            icon="@drawable/ic_info_black_24dp"
+            barColorWhenSelected="#ffffff"
+            title="Events"/>
+
+    </tabs>
+    </HorizontalScrollView>
+</PreferenceScreen>
